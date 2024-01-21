@@ -2,6 +2,19 @@
 
 
 
+## v0.4.0 (2024-01-21)
+
+### Feature
+
+* feat: edited formatting of version_toml ([`28c3703`](https://github.com/ttimbers/pycounts_tt_2024/commit/28c37030b32a2fd3d217b2b76b723f93b5c2bd76))
+
+* feat: moved to version_toml in pyproject.toml table ([`798970b`](https://github.com/ttimbers/pycounts_tt_2024/commit/798970bce1100ca2c51ec8d8020375cc51df4aa8))
+
+### Unknown
+
+* updating to using new build command and action to generate github release ([`2471057`](https://github.com/ttimbers/pycounts_tt_2024/commit/2471057aa825a79e37dc4cc1f576d574182d904a))
+
+
 ## v0.3.0 (2024-01-21)
 
 ### Feature
