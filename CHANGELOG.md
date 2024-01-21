@@ -2,6 +2,17 @@
 
 
 
+## v0.3.0 (2024-01-21)
+
+### Feature
+
+* feat: moved to version_toml and removed patch_without_tag ([`ba52fd9`](https://github.com/ttimbers/pycounts_tt_2024/commit/ba52fd98cb1f6bd2e950b6bb83c66ad099809f0a))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of github.com:ttimbers/pycounts_tt_2024 ([`ce0e42a`](https://github.com/ttimbers/pycounts_tt_2024/commit/ce0e42a28284b6c144de80e05b485083de53447e))
+
+
 ## v0.2.0 (2024-01-21)
 
 ### Feature
