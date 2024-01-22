@@ -2,6 +2,29 @@
 
 
 
+## v0.5.0 (2024-01-22)
+
+### Feature
+
+* feat: added permissions to handle branch protection ([`13fe4ab`](https://github.com/ttimbers/pycounts_tt_2024/commit/13fe4ab67f2fc3135d2b574c10fa189dc89813b8))
+
+### Unknown
+
+* Merge pull request #1 from ttimbers/feat-branch-protection-override
+
+feat: added permissions to handle branch protection ([`25f46b5`](https://github.com/ttimbers/pycounts_tt_2024/commit/25f46b55258f22bad76d3f12eaa896174ed8a1b9))
+
+* patch: testing removal of upload commands: ([`696a326`](https://github.com/ttimbers/pycounts_tt_2024/commit/696a3262ca0740a002bfcebb462de3891abc3636))
+
+* patch: fix to PyPI action ([`64b8dae`](https://github.com/ttimbers/pycounts_tt_2024/commit/64b8daea02c64dcd238b9802d22ef50eeb1d4b1e))
+
+* patch: cleaning up ([`ebecb50`](https://github.com/ttimbers/pycounts_tt_2024/commit/ebecb505ae8d9bbf4b304de46a24819674b36c25))
+
+* Merge branch &#39;main&#39; of github.com:ttimbers/pycounts_tt_2024 ([`3620448`](https://github.com/ttimbers/pycounts_tt_2024/commit/3620448c267067ec202aa6ae2069370dbb9a45d5))
+
+* replacing accidentally removed testPyPI URL ([`ddc79fe`](https://github.com/ttimbers/pycounts_tt_2024/commit/ddc79febf765ce31af284f44e73f8126e1bb073f))
+
+
 ## v0.4.0 (2024-01-21)
 
 ### Feature
