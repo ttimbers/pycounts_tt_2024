@@ -1,11 +1,14 @@
-name: ci-cd
+name: ci
 
 on: [push, pull_request]
 
 jobs:
   ci:
     # Set up operating system
-    runs-on: macos-latest
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
 
     # Define job steps
     steps:
