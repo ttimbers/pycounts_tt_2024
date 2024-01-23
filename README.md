@@ -1,5 +1,7 @@
 # pycounts_tt_2024
 
+[![Documentation Status](https://readthedocs.org/projects/pycounts-tt-2024/badge/?version=latest)](https://pycounts-tt-2024.readthedocs.io/en/latest/?badge=latest)
+
 Calculate word counts in a text file!!!
 
 ## Installation
