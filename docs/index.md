@@ -1,3 +1,5 @@
+![](img/py-counts-logo.png)
+
 ```{include} ../README.md
 ```
 
