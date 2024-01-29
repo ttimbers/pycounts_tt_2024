@@ -2,6 +2,8 @@
 
 [![Documentation Status](https://readthedocs.org/projects/pycounts-tt-2024/badge/?version=latest)](https://pycounts-tt-2024.readthedocs.io/en/latest/?badge=latest)
 
+Author: Tiffany Timbers
+
 Calculate word counts in a text file!!!
 
 ## Installation
