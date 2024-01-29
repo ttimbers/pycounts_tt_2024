@@ -2,6 +2,17 @@
 
 
 
+## v0.6.0 (2024-01-29)
+
+### Feature
+
+* feat: testing major release
+
+Just an edit to the authors really.
+
+BREAKING CHANGE: Added middle initial ([`c17380f`](https://github.com/ttimbers/pycounts_tt_2024/commit/c17380fe4cbb299f9c6d57a549606a081f5a01fa))
+
+
 ## v0.5.1 (2024-01-29)
 
 ### Fix

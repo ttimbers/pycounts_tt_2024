@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_tt_2024"
-version = "0.5.1"
+version = "0.6.0"
 description = "Calculate word counts in a text file!"
 authors = ["Tiffany Timbers"]
 license = "MIT"
