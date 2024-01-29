@@ -28,8 +28,6 @@ version_toml = [
 branch = "main"                             # branch to make releases of
 changelog_file = "CHANGELOG.md"             # changelog file
 build_command = "pip install poetry && poetry build"              # build dists
-#upload_to_release = true                    # auto-create GitHub release
-#upload_to_pypi = true                      # don't auto-upload to PyPI
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
