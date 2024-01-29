@@ -2,6 +2,33 @@
 
 
 
+## v0.5.1 (2024-01-29)
+
+### Fix
+
+* fix: added authors ([`7af78e2`](https://github.com/ttimbers/pycounts_tt_2024/commit/7af78e2195c37da00c550d56d7a690e263b30126))
+
+### Unknown
+
+* patch: removed unneeded comments from PSR table ([`9c64ace`](https://github.com/ttimbers/pycounts_tt_2024/commit/9c64ace2b88c571916136996ff38eb14b4775361))
+
+* added logo ([`5a4c690`](https://github.com/ttimbers/pycounts_tt_2024/commit/5a4c690e6a1bca8dab12e007245ae42bd5ac0d0d))
+
+* reverting to original index.md ([`22a9708`](https://github.com/ttimbers/pycounts_tt_2024/commit/22a97085b9a10e94782f34131ce5c1d493b0a029))
+
+* add RTD button ([`97277f4`](https://github.com/ttimbers/pycounts_tt_2024/commit/97277f45796b94ec8d078bf5a5d559ce625ec985))
+
+* Update ci.yml ([`8bd9ddd`](https://github.com/ttimbers/pycounts_tt_2024/commit/8bd9ddd7c10f6a1d6ce476721e1a1abc11bab441))
+
+* demo of matrix ([`d5e3791`](https://github.com/ttimbers/pycounts_tt_2024/commit/d5e3791c705737a53283cfe39219aca12172ff91))
+
+* Create ci.yml ([`9a528eb`](https://github.com/ttimbers/pycounts_tt_2024/commit/9a528eb7104b6a4f93d1ac340f91f24e6023bed3))
+
+* removed req file from dosc ([`8119b97`](https://github.com/ttimbers/pycounts_tt_2024/commit/8119b97b24521b434d8b50ac164e72e835fa60e0))
+
+* Update index.md ([`6d6668d`](https://github.com/ttimbers/pycounts_tt_2024/commit/6d6668dc2eb436390fe35c5e527efa97e6c58186))
+
+
 ## v0.5.0 (2024-01-22)
 
 ### Feature
