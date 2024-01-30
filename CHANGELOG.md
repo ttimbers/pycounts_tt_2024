@@ -2,6 +2,17 @@
 
 
 
+## v2.0.0 (2024-01-30)
+
+### Breaking
+
+* feat!: testing major release
+
+Just an edit to the authors really.
+
+BREAKING CHANGE: Added middle initial ([`1b8cc6a`](https://github.com/ttimbers/pycounts_tt_2024/commit/1b8cc6ab1bb9a5947255d7e623d97c0a110e3006))
+
+
 ## v1.0.1 (2024-01-30)
 
 ### Fix
