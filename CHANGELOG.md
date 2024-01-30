@@ -2,6 +2,26 @@
 
 
 
+## v1.0.1 (2024-01-30)
+
+### Fix
+
+* fix:  update author ([`8a8f8fc`](https://github.com/ttimbers/pycounts_tt_2024/commit/8a8f8fcb81c1bbb279ad7e945e0bc85a8a90fda8))
+
+### Unknown
+
+* Update pyproject.toml ([`95a4de0`](https://github.com/ttimbers/pycounts_tt_2024/commit/95a4de03ea0f11ab15502d5cd3da4d4ef88fa85d))
+
+
+## v1.0.0 (2024-01-30)
+
+### Unknown
+
+* added if to install from testPyPI ([`74bcdd1`](https://github.com/ttimbers/pycounts_tt_2024/commit/74bcdd1555964bd322e0d92c8f331d1265fe2bb9))
+
+* BREAKING CHANGE: remove middle initial ([`2ff5a79`](https://github.com/ttimbers/pycounts_tt_2024/commit/2ff5a798211ad4a8f72579aac07a6aa30642ae13))
+
+
 ## v0.6.0 (2024-01-29)
 
 ### Feature
