@@ -2,6 +2,13 @@
 
 
 
+## v2.1.0 (2024-04-04)
+
+### Feature
+
+* feat: fixed name spelling ([`8abc64b`](https://github.com/ttimbers/pycounts_tt_2024/commit/8abc64ba6b8a66d47769841a3349274bf014df22))
+
+
 ## v2.0.1 (2024-04-04)
 
 ### Fix
