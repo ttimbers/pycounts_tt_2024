@@ -2,6 +2,17 @@
 
 
 
+## v2.0.1 (2024-04-04)
+
+### Fix
+
+* fix: added missing initial ([`56273fd`](https://github.com/ttimbers/pycounts_tt_2024/commit/56273fd06afa5e92d0001c1e04d644fbec14209b))
+
+### Unknown
+
+* test importing matplotlib ([`6791d49`](https://github.com/ttimbers/pycounts_tt_2024/commit/6791d49927f8a755da33407e1167f65eff920f37))
+
+
 ## v2.0.0 (2024-01-30)
 
 ### Breaking
@@ -24,7 +35,7 @@ BREAKING CHANGE: Added middle initial ([`1b8cc6a`](https://github.com/ttimbers/p
 * Update pyproject.toml ([`95a4de0`](https://github.com/ttimbers/pycounts_tt_2024/commit/95a4de03ea0f11ab15502d5cd3da4d4ef88fa85d))
 
 
-## v1.0.0 (2024-01-30)
+## v1.0.0 (2024-01-29)
 
 ### Unknown
 
@@ -35,7 +46,7 @@ BREAKING CHANGE: Added middle initial ([`1b8cc6a`](https://github.com/ttimbers/p
 
 ## v0.6.0 (2024-01-29)
 
-### Feature
+### Breaking
 
 * feat: testing major release
 
