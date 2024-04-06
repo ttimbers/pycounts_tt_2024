@@ -2,6 +2,8 @@
 
 [![Documentation Status](https://readthedocs.org/projects/pycounts-tt-2024/badge/?version=latest)](https://pycounts-tt-2024.readthedocs.io/en/latest/?badge=latest)
 
+[![codecov](https://codecov.io/gh/ttimbers/pycounts_tt_2024/graph/badge.svg?token=0KMZ9OEBGI)](https://codecov.io/gh/ttimbers/pycounts_tt_2024)
+
 Author: Tiffany-Anne Timbers
 
 Calculate word counts in a text file!!!
